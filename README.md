@@ -16,7 +16,7 @@ Bunları yaptı iseniz size yöneticiniz tarafından verilen ilk göreviniz 'Git
 - [x] ❗Kendi GitHub hesabınızda❗oluşan bu kopya'yı açın. Bilgisayarınıza clone'lamak için sağ üstteki yeşil `Code` butonu ile SSH URL'i kopyalayın. SSH URL örneği: `git@github.com:GITHUB-HESABINIZ/FSWeb-S1G1-Projesi-Web-Development-Projesi-icin-Git`
 - [x] Mac kullanıyorsanız `Terminal`i, Windows kullanıyorsanız `Git Bash`'de `git clone` yazdıktan sonra bu url'i yapıştırıp çalıştırın. Örneğin: `git clone git@github.com:GITHUB-HESABINIZ/FSWeb-S1G1-Projesi-Web-Development-Projesi-icin-Git`
 - [x] Clone'ladığınız projenin klasörüne girin. (İPUCU: `ls`komutu ile oluşan klasörün adını görebilir, `cd` komutu ile klasöre girebilirsiniz.)
-- [ ] Bir branch yaratın: `git checkout -b 'ADINIZ-SOYADINIZ'`
+- [x] Bir branch yaratın: `git checkout -b 'ADINIZ-SOYADINIZ'`
 - [ ] Sorular.md dosyasındaki soruları cevaplandırın.
 - [ ] Aşağıdaki adımları yaparak;
       - [ ] 1- bilgisayarınızda değiştirdiğiniz dosyayı ekleyiniz (`git add DOSYA-ADI`), 
